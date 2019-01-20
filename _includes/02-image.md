@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Baiddu Logo Image](https://www.baidu.com/img/baidu_jgylogo3.gif)
+![Baiddu Logo Image](https://www.baidu.com/img/baidu_jgylogo3.gif2)
